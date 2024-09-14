@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=%23acdaff&height=300&section=header&text=HI!%20I%20am%20Sodam&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=4066a8&height=300&section=header&text=HI!%20I%20am%20Sodam&fontAlignY=45&desc=Welcome%20to%20my%Repository&descAlignY=60&animation=fadeIn&fontSize=50)
