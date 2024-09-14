@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=aScbf0&height=300&section=header&text=HI! I am Sodam%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=vemnom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
