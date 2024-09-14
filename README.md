@@ -3,10 +3,28 @@
 </p>
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadamji34&layout=compact" alt="Top Langs">
-</p>
+<h3 align="center"> Tech Stack </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
+</div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dadamji34&show_icons=true&theme=radical&bg_color=c8dae9&title_color=192843&text_color=263d64&icon_color=5375b0" alt="sodam's GitHub stats">
-</p>
+<br>
+
+<h3 align="center"> Studying </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-FF7800.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+</div>
+
+<br>
+<h3 align="center"> Tools </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+</div>
+
