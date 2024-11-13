@@ -6,6 +6,7 @@
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-FF7800?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
 </div>
