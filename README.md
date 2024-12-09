@@ -6,9 +6,11 @@
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-FF7800?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-FF7800?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 </div>
 
 <br>
@@ -27,6 +29,6 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 </div>
 
