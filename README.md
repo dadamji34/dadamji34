@@ -2,33 +2,21 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&color=4066a8&height=300&section=header&text=HI!%20I%20am%20Sodam&fontAlignY=45&desc=Welcome%20to%20my%20Repository&descAlignY=60&animation=fadeIn&fontSize=50" alt="header">
 </p>
 
-
-<h3 align="center"> Tech Stack </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-FF7800?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+<h3>Languages</h3>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white">
+    <img src="https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white">
 </div>
 
-<br>
-
-<h3 align="center"> Studying </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-FF7800.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+<h3>Tech Stacks</h3>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-FF7800?style=flat-square&logo=Jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white">
+    <img src="https://img.shields.io/badge/ELK Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
 </div>
-
-<br>
-<h3 align="center"> Tools </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-</div>
-
